@@ -1,0 +1,2 @@
+# script-linux-bootcamp-dio
+Script Linux onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente
